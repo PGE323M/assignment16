@@ -1,0 +1,9 @@
+name: assignment16
+channels:
+  - conda-forge
+dependencies:
+  - numpy=2.1.1
+  - python=3.11.9
+  - ipython=8.25.0
+  - nbconvert=7.10.0
+  - pandas=2.2.2
