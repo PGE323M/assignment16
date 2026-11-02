@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+# Local CMG working files; submit only assignment16.csv.
+*.dat
+*.sr3
+*.out
+*.log
+*.irf
+*.mrf
+# Figure build files
+images/*.aux
+images/*.log
+images/*.pdf
